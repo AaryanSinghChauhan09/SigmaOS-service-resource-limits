@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-service-resource-limits"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS service-resource-limits component - init_system"
+
+[lib]
+name = "service_resource_limits"
+path = "src/lib.rs"
