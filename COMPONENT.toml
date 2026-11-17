@@ -3,7 +3,7 @@ name = "SigmaOS-service-resource-limits"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-resource-limits component"
+description = "service resource limits"
 upstream = []
 
 [contract]
